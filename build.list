@@ -1,0 +1,16 @@
+# Interface and design
+interface.sv
+memory.sv
+
+# Base classes and components
+transaction.sv
+generator.sv
+driver.sv
+monitor_in.sv
+monitor_out.sv
+scoreboard.sv
+
+# Environment and test
+environment.sv
+test.sv
+testbench.sv

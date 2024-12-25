@@ -1,0 +1,11 @@
+/users/pd13/memory/driver.sv
+/users/pd13/memory/environment.sv
+/users/pd13/memory/generator.sv
+/users/pd13/memory/interface.sv
+/users/pd13/memory/memory.sv
+/users/pd13/memory/monitor_in.sv
+/users/pd13/memory/monitor_out.sv
+/users/pd13/memory/scoreboard.sv
+/users/pd13/memory/test.sv
+/users/pd13/memory/testbench.sv
+/users/pd13/memory/transaction.sv

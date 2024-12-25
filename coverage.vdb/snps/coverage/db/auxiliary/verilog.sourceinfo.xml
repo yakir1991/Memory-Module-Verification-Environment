@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE cov SYSTEM "ucdb_srcinfo.dtd">
+  <srcinfo name="/users/pd13/memory"  >
+    <ucapi_version  major_ver="13"  minor_ver="1"  patch_str="S-2021.09-SP1"  />
+      <fileinfo name="interface.sv"  id="0"  timestamp="1735164989"  />
+      <fileinfo name="memory.sv"  id="1"  timestamp="1735163081"  />
+      <fileinfo name="transaction.sv"  id="2"  timestamp="1735163082"  />
+      <fileinfo name="generator.sv"  id="3"  timestamp="1735163082"  />
+      <fileinfo name="driver.sv"  id="4"  timestamp="1735163082"  />
+      <fileinfo name="monitor_in.sv"  id="5"  timestamp="1735163081"  />
+      <fileinfo name="monitor_out.sv"  id="6"  timestamp="1735163082"  />
+      <fileinfo name="scoreboard.sv"  id="7"  timestamp="1735163082"  />
+      <fileinfo name="environment.sv"  id="8"  timestamp="1735163125"  />
+      <fileinfo name="test.sv"  id="9"  timestamp="1735165078"  />
+      <fileinfo name="testbench.sv"  id="10"  timestamp="1735163142"  />
+    </srcinfo>
